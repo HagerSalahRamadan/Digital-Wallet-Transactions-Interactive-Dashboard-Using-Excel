@@ -1,5 +1,9 @@
 # Digital Wallet Transactions-Interactive Dashboard Using Excel
 #### In today's fast-paced digital economy, understanding transaction trends is key to optimizing user experience and boosting revenue.
+## Digital Wallet Transactions Dashboard
+
+![Dashboard Screenshot](https://github.com/HagerSalahRamadan/Digital-Wallet-Transactions-Interactive-Dashboard-Using-Excel/blob/main/Dashboard_Screenshot.PNG)
+
 ## **Overview**
  This digital wallet dashboard provides key performance indicators (KPIs) and insights related to transactions, revenue, and user behavior in 2023 and 2024.
 
